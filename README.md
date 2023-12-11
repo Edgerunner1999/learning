@@ -1,2 +1,2 @@
 # learning
-just a place where I am learning to code I hope I can get some pointers from people on the site.
+Hello World. I am a 24-year-old who is trying to get into coding to be more 
